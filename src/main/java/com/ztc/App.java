@@ -11,5 +11,6 @@ public class App {
         System.out.println("Hello gitTest03");
         System.out.println("Hello gitTest04");
         System.out.println("master test");
+        System.out.println("hot-fix test");
     }
 }
